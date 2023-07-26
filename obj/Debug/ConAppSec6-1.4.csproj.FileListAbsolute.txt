@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSec6-1.4\ConAppSec6-1.4\bin\Debug\ConAppSec6-1.4.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSec6-1.4\ConAppSec6-1.4\bin\Debug\ConAppSec6-1.4.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSec6-1.4\ConAppSec6-1.4\bin\Debug\ConAppSec6-1.4.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSec6-1.4\ConAppSec6-1.4\obj\Debug\ConAppSec6-1.4.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSec6-1.4\ConAppSec6-1.4\obj\Debug\ConAppSec6-1.4.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSec6-1.4\ConAppSec6-1.4\obj\Debug\ConAppSec6-1.4.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSec6-1.4\ConAppSec6-1.4\obj\Debug\ConAppSec6-1.4.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSec6-1.4\ConAppSec6-1.4\obj\Debug\ConAppSec6-1.4.pdb
